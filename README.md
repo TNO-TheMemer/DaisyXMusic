@@ -15,7 +15,7 @@
 - Current playback support
 - Showing track names when skipping
 - Zero downtime, Fully Stable
-- DEEZER,YOUTUBE & SAAVN PLAYBACK SUPPORTED
+- Deezer,Youtube & Saavn playback support
 - Settings panel
 - Control with buttons
 - Userbot auto join
@@ -27,7 +27,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamdaisyx/DaisyXMusic)
 
-Use [@DaisyXStringGeneratorBot](https://t.me/DaisyXStringGeneratorBot) to get pyrogram string session or [repl](https://repl.it/@SpEcHiDe/GenerateStringSession)
+Get pyrogram (p)  `SESSION` from here:
+[![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
@@ -96,6 +97,10 @@ If you donlt like to play in linked channel:
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
+
+#### Pmpermit
+- `.a` - approove someone to pm you
+- `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
 
 ### Credits
