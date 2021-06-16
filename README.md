@@ -32,16 +32,21 @@ Get pyrogram (p)  `SESSION` from here:
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
-# Install Git First (apt-instll git)
 $ git clone https://github.com/TeamDaisyX/DaisyXmusic
-$ cd DaisyXMusic
-# Upgrade sources
+```
+open dir
+```
+$ cd DaisyXmusic
+```
+sudo apt upgrade [to upgrade sources]
+
+```
 # Install All Requirements 
-$ pip(3) install -r requirements.txt
+$ pip3 install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python(3) -m DaisyXMusic
+$ python3 -m DaisyXMusic
 ```
 
 ### Commands for Group 🛠
