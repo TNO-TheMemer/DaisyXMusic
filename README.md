@@ -41,17 +41,17 @@ $ cd DaisyXmusic
 ```
 sudo apt upgrade 
 ```
-# Install All Requirements 
+Install All Requirements 
 ```
 $ pip3 install -r requirements.txt
 ```
-# Rename example.env to local.env and fill
+Rename example.env to local.env and fill
 
-# besure to upgrade node to 10+version
+besure to upgrade node to 10+version
 ```
 $ npm i -g npm
 ```
-# Start Bot 
+Start Bot 
 ```
 $ python3 -m DaisyXMusic
 ```
