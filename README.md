@@ -1,11 +1,11 @@
-<h1 align="centre">DAISYXMUSIC V4.0 🎵</h1>
+<h1 align="centre">Power Music 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@Powerr_Robot](https://t.me/Powerr_Robot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/4af9c7016251c7e0e9ada.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -23,16 +23,16 @@
 
 ## 🚀 Deployment
 
-### 💜 Heroku
+### 🖤 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamdaisyx/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TNO-TheMemer/DaisyXMusic)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/TNO-TheMemer/DaisyXmusic
 ```
 open dir
 ```
