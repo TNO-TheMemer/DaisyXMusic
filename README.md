@@ -47,7 +47,7 @@ $ pip3 install -r requirements.txt
 ```
 Rename example.env to local.env and fill
 
-besure to upgrade node to 10+version
+besure to upgrade node to 15+version
 ```
 $ npm i -g npm
 ```
